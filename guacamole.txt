@@ -1,0 +1,6 @@
+*avocado
+*salt
+*lime
+*onion 
+
+
